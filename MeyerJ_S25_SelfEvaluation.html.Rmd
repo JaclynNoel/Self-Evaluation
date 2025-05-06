@@ -1,0 +1,155 @@
+---
+title: "AN/BI 588: End-of-Semester Self Evaluation"
+author: "Jaclyn Meyer"
+date: "May 4th, 2025"
+output: 
+  rmarkdown::html_document:
+    theme: cosmo
+---
+***
+
+### [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html)
+### [Course Outline](https://fuzzyatelin.github.io/bioanth-stats/outline.html)
+### [Modules](https://fuzzyatelin.github.io/bioanth-stats/modules.html)
+### [Assignments](https://fuzzyatelin.github.io/bioanth-stats/assignments.html)
+### [Resources](https://fuzzyatelin.github.io/bioanth-stats/resources.html)
+### [Policies](https://fuzzyatelin.github.io/bioanth-stats/policies.html)
+### [Insurmountable Coding Problems](https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html)
+
+***
+
+<center>
+
+<font size="+2"><b>Falling... But got back up.</b></font></center><br>
+
+<center><p><img src="https://ew.com/thmb/GPXkSOR6FTSU3Xj8fkyr4hqpQMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lady-camden-runway-fall-gif-39dc6cc026e645b1b7d491ff448ef7b5.gif" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+This class was HARD, and a second semester senior feeling like I was failing this far in my college career was even harder. I felt each assignment was a runway that I was slipping and falling on (but not on purpose like Lady Camden). But each time I kept going, I searched the readings, the modules, and the internet for ways to fix each error message, not shown in the Gif but each time I got back up like Lady Camden, just not as gracefully. 
+<br><br>
+Whether I agree with your assessment or not, I will schedule a time for us to discuss your self-assessment. In this discussion, we will come to an agreement regarding your final grade reflecting the criteria in the [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html) and as outlined below. 
+
+</center>
+***
+
+## Instructions
+
+***
+
+Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (in the `fuzzyatelin.github.io/bioanth-stats/` folder) and answer the appropriate questions in the spaces provided. Once you've knitted the final file, please send the **html** version of that file to me with the name `[LastF]_S25_SelfEvaluation.html` (with `LastF` meaning your last name followed by your first initial, i.e., mine would be called `SchmittC_S25_SelfEvaluation.html`) via [this link](https://drive.google.com/drive/folders/1VpufYbN9ygRtvlXVm_wdqt8mZU-ychHX?usp=share_link). I must receive this file by **May 1, 2025** at the earliest, and by the **Final Exam Date (May 6, 2025)** at the latest.
+
+***
+
+### Overall Impression
+
+***
+
+In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
+
+***
+
+### What were you asked to do?
+
+***
+
+## Homeworks
+
+[Homework 1](Jaclynm_FinalHomeworkCode_01.html)
+
+[Homework 2](Jaclynm_FinalHomeworkCode_02.html)
+
+[Homework 3](AN588_Zombies_Jaclynm.html)
+
+[Homework 4](AN588_MalfunctionFinal_Jaclynm.html)
+
+[Homework 5](An588_BootsFinal_Jaclynm.html)
+
+[Group Module](Student-module-main.html)
+
+[Replication](JaclynM_Replication_AN588.html)
+
+Self-Evaluation (you're on it :))
+***
+
+I complete all of the assignments. 
+
+* Homework 1:Push it!
+
+* Homework 2: Titis in the Mist
+
+* Homework 3: Some of my Best Friends are Zombies.
+Final push was on March 9th, due on March 3rd. However, I was waiting on peer commentary and did not recieve it until March 4th.
+
+* Homework 4: What's your malfunction?
+Final push on March 24th, due on March 17th
+
+* Homework 5: Boots for Days!
+Final push on April 18th, due April 14th
+
+* Analysis Replication Assignment
+
+* Group Presentation and R Vignette.
+Final push on April 29th, due April 22nd. The group did contact you and let you know. Also my parts were completed by the due date.
+
+* Self Evaluation
+
+***
+
+### How well did you accomplish them?
+
+***
+
+I feel I was successful in accomplishing the given tasks; however, I wish I was able to complete them with a higher quality. Like I mentioned this was an incredibly difficult class for me and I consistently felt behind. But I truly put effort and time into each task. I am aware that many of the assignments were not finished by the given due date but that is because I was truly working to make them the best I could and work out any of the errors I was facing.
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+Statistics has always been a difficult subject for me to truly understand and work with. This class has really helped with that. Being able to see **how** these statistics are calculated and being able to work through the data with the code has really helped me be able to wrap my head around the subject better. I think this will be an asset in my future careers.
+***
+
+### What did you learn from all this?
+
+***
+
+* The basics of R 
+* How to use R to sort through data and analysis it
+* How to keep going without giving up
+
+***
+
+### What did your learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
+
+***
+
+I think the biggest thing I learned about teamwork is trusting my team. Unlike Google docs I can not monitor what other team members are doing in real time with R studio, so I had to trust they were each doing their parts. The readings and specifically the MIT reading "Important Steps When Building a New Team" helped with this understanding when it talked about mutual accountability and in the roles and responsibilites section speaking about trust and an increased sense of "team-ness".
+
+***
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+I really enjoyed the peer commentary and group project as I felt less alone in this class, especially when speaking to others who don't have any experience with coding and R because we were learning together and it made me feel less behind. I really liked getting peer feedback, but wish I was able to provide more useuful feedback to my peers, I rarely felt I was truly able to help but I tried my best to give feedback that I would want to recieve!
+
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+I think having the basics of R understood is going to be extremely helpful in my future. I want to go into epidemiological research and I know R is often the go to for that so having this basic understanding before going into grad school is going to be very helpful. Another thing of lasting value I will be taking away is that failure is not the end, an error message is not the end. The only end is when you stop trying to fix the error message. 
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+A-
+
+***
+
